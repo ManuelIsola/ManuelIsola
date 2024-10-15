@@ -26,7 +26,7 @@ Sou um desenvolvedor com 3 anos de experiência em **Programação Web**, **Dese
 ### 🛠️ Habilidades Técnicas
 
 - **Programação Web**: HTML, CSS, JavaScript, PHP, Bootstrap
-- **Desenvolvimento Desktop**: C#, SQL Server
+- **Desenvolvimento Desktop**: C#, C++, SQL Server
 - **Gerenciamento de Projetos**: Planejamento, Execução e Mentoria
 
 <p align="center">
@@ -77,6 +77,7 @@ Atualmente, estou focado em:
 <p align="center">
   <b>“A tecnologia move o mundo.” - Steve Jobs</b>
 </p>
+
 
 <!---
 ManuelIsola/ManuelIsola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
