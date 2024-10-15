@@ -18,7 +18,7 @@
 ---
 
 ### 👋 Sobre Mim
-Sou um desenvolvedor com 3 anos de experiência em **Programação Web**, **Desenvolvimento Desktop** e outras tecnologias. Tenho paixão por resolver problemas complexos e criar soluções eficientes que agreguem valor aos negócios e usuários. Estou sempre buscando aprimorar minhas habilidades e explorar novas tendências tecnológicas.
+Sou um desenvolvedor com 2 anos de experiência em **Programação Web**, **Desenvolvimento Desktop** e outras tecnologias. Tenho paixão por resolver problemas complexos e criar soluções eficientes que agreguem valor aos negócios e usuários. Estou sempre buscando aprimorar minhas habilidades e explorar novas tendências tecnológicas.
 
 ---
 
@@ -32,7 +32,7 @@ Sou um desenvolvedor com 3 anos de experiência em **Programação Web**, **Dese
 ### 📊 Nível de Habilidade
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Front--End-85%25-brightgreen" />
-  <img src="https://img.shields.io/badge/Web%20Back--End-90%25-brightgreen" />
+  <img src="https://img.shields.io/badge/Web%20Back--End-68%25-brightgreen" />
   <img src="https://img.shields.io/badge/Desenvolvimento%20Desktop-70%25-yellow" />
 </p>
 
@@ -83,6 +83,7 @@ Atualmente, estou focado em:
 <p align="center">
   <b>“A tecnologia move o mundo.” - Steve Jobs</b>
 </p>
+
 
 
 <!---
