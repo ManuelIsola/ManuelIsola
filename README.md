@@ -1,18 +1,17 @@
 <h1 align="center">👨‍💻 Manuel Isola</h1>
-
 <p align="center">
   <b>Desenvolvedor | Engenheiro Informático | Apaixonado por Tecnologia 🚀</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manuel-isola-2979792b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/manuelisolaabcdevs/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/manuel.albanodapleb/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
 </p>
 
@@ -24,15 +23,17 @@ Sou um desenvolvedor com 3 anos de experiência em **Programação Web**, **Dese
 ---
 
 ### 🛠️ Habilidades Técnicas
-
-- **Programação Web**: HTML, CSS, JavaScript, PHP, Bootstrap
-- **Desenvolvimento Desktop**: C#, C++, SQL Server
-- **Gerenciamento de Projetos**: Planejamento, Execução e Mentoria
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Front--End-85%25-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Back--End-90%25-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Desenvolvimento%20Desktop-70%25-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Programação%20Web-HTML%2C%20CSS%2C%20JavaScript%2C%20PHP%2C%20Bootstrap-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Desenvolvimento%20Desktop-C%23%2C%20C%2B%2B%2C%20SQL%20Server-blue" />
+  <img src="https://img.shields.io/badge/Gerenciamento%20de%20Projetos-Planejamento%2C%20Execução%2C%20Mentoria-orange" />
+</p>
+
+### 📊 Nível de Habilidade
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Front--End-85%25-brightgreen" />
+  <img src="https://img.shields.io/badge/Web%20Back--End-90%25-brightgreen" />
+  <img src="https://img.shields.io/badge/Desenvolvimento%20Desktop-70%25-yellow" />
 </p>
 
 ---
@@ -40,16 +41,21 @@ Sou um desenvolvedor com 3 anos de experiência em **Programação Web**, **Dese
 ### 🎓 Formação
 - 🎓 **Instituto Politécnico Industrial de Luanda (IPIL)**  
   Técnico Médio de Informática (2017-2021)
+  
 - 🎓 **Instituto Superior Técnico de Angola (ISTA)**  
   Engenharia Informática (2021 – Atual)
 
 ---
 
 ### 💼 Experiência Profissional
-Trabalhei em vários projetos ao longo da minha carreira, incluindo:
-- Desenvolvimento de **sistemas de gestão e assistência técnica**
-- **Formações profissionais de programação** e mentoria de TCCs
-- Projetos para **easyWay Group, Luanda - Angola (2020-2023)**
+- **Master Contas**  
+  *Desenvolvedor (1 ano)*  
+  Contribuí para o desenvolvimento de soluções inovadoras, melhorando a eficiência operacional da empresa.
+
+- **easyWay Group**  
+  *Desenvolvedor (2020-2023)*  
+  - Desenvolvimento de sistemas de gestão e assistência técnica
+  - Formações profissionais de programação e mentoria de TCCs
 
 ---
 
@@ -61,8 +67,8 @@ Atualmente, estou focado em:
 ---
 
 ### 📬 Contatos
-- 📱 **Telefone**: [943 34 02 82](tel:+244943340282)
-- ✉️ **Email**: [manuelisola8@gmail.com](mailto:manuelisola8@gmail.com)
+- 📱 **Telefone**: [943 34 02 82](tel:+244943340282)  
+- ✉️ **Email**: [manuelisola8@gmail.com](mailto:manuelisola8@gmail.com)  
 
 ---
 
